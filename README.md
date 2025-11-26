@@ -1,1 +1,1 @@
-# Signal-Conditioning-Circuit-and-Buck-Converter-PCB-Designs
+# Signal Conditioning Circuit and Buck Converter PCB Designs
